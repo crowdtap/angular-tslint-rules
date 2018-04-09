@@ -56,7 +56,7 @@
       "check-parameters"
     ],
     "no-unnecessary-initializer": true,
-    "no-implicit-dependencies": true,
+    "no-implicit-dependencies": false,
     "ordered-imports": [
       true,
       {
