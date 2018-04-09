@@ -218,8 +218,6 @@
     "class-name": true,
     "variable-name": [
       true,
-      "check-format",
-      "allow-leading-underscore",
       "ban-keywords"
     ],
     "comment-format": [
@@ -288,7 +286,6 @@
     "no-forward-ref": true,
     "use-life-cycle-interface": true,
     "contextual-life-cycle": true,
-    "trackBy-function": true,
     "use-pipe-transform-interface": true,
     "pipe-naming": [
       true,
